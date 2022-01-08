@@ -1,4 +1,4 @@
-.tasks {
+.word {
   position: relative;
   top: 94px;
   left: 296px;
@@ -7,7 +7,7 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.lists {
+.word2 {
   position: relative;
   top: 11px;
   left: 441px;
@@ -16,7 +16,7 @@
   color: rgb(167 167 167);
   font-weight: normal;
 }
-.paris {
+.word3 {
   position: absolute;
   top: 223px;
   left: 307px;
@@ -25,7 +25,7 @@
   height: 272px;
   border-radius: 10px;
 }
-.paris1 {
+.word5 {
   color: red;
   font-family: Arial, Helvetica, sans-serif;
   position: relative;
@@ -41,7 +41,7 @@
   left: 11px;
   top: -3px;
 }
-.paris2 {
+.word4 {
   color: red;
   font-family: Arial, Helvetica, sans-serif;
   position: relative;
